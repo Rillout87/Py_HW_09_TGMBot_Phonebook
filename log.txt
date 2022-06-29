@@ -11,3 +11,5 @@
 {'contact_id': 10, 'surname': 'Рос', 'name': 'МОП', 'phone': 'Попа', 'comment': 'Рос'}; changed; 2022-06-25 11:32:03 
 [{'surname': 'Поспелов Сергей', 'name': 'Сергей поспелов', 'phone': 'Не скажу', 'comment': 'Что тут ещё сказать', 'contact_id': 10}]; added; 2022-06-25 11:52:57 
 [{'surname': 'Комиссар', 'name': 'Катанья', 'phone': '98989111', 'comment': 'Не брать', 'contact_id': 11}]; added; 2022-06-25 16:30:20 
+[{'contact_id': 12, 'surname': 'Иванов', 'name': 'Иван', 'phone': '79998887744', 'comment': 'Одноклассник'}, {'contact_id': 13, 'surname': 'Сидоров', 'name': 'Сергей', 'phone': '78887775522', 'comment': 'Одногрупник'}, {'contact_id': 14, 'surname': 'Петров', 'name': 'Петр', 'phone': '75554443322', 'comment': 'Мимо проходил'}]; imported; 2022-06-29 19:28:52 
+[{'contact_id': 15, 'surname': 'Иванов', 'name': 'Иван', 'phone': 79998887744, 'comment': 'Одноклассник'}, {'contact_id': 16, 'surname': 'Сидоров', 'name': 'Сергей', 'phone': 78887775522, 'comment': 'Одногрупник'}, {'contact_id': 17, 'surname': 'Петров', 'name': 'Петр', 'phone': 75554443322, 'comment': 'Мимо проходил'}]; imported; 2022-06-29 19:29:16 

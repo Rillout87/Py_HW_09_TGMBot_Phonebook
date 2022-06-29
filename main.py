@@ -2,6 +2,7 @@ from bot_token import tok
 from controller import main_handler
 
 import logging
+import telebot
 from typing import Dict
 from telegram import ReplyKeyboardMarkup, Update, ReplyKeyboardRemove
 from telegram.ext import (
